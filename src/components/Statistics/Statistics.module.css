@@ -5,14 +5,14 @@
   margin-right: auto;
 
   background-color: aliceblue;
-  -webkit-box-shadow: 5px 5px 15px 5px #000000;
-  box-shadow: 5px 5px 15px 5px #000000;
+  -webkit-box-shadow: 5px 5px 5px 5px #a5a5a5;
+  box-shadow: 5px 5px 5px 5px #a39d9d;
 }
 
 .title {
   padding: 20px 0;
   text-align: center;
-  color: gray;
+  color: rgb(167, 160, 160);
 }
 
 .statList {

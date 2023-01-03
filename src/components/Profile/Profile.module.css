@@ -1,5 +1,5 @@
 .profile {
-  width: 300px;
+  width: 350px;
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
@@ -8,7 +8,7 @@
   overflow: hidden;
   border-radius: 20px;
   background-color: beige;
-  border: 1px solid gray;
+  border: 1px solid rgb(163, 163, 163);
 }
 
 .description {
@@ -24,7 +24,7 @@
   margin-bottom: 30px;
 
   border-radius: 50%;
-  background-color: aquamarine;
+  background-color: rgb(215, 241, 144);
 }
 
 .name {
@@ -47,7 +47,7 @@
   display: flex;
   justify-content: space-between;
 
-  background-color: bisque;
+  background-color: rgb(255, 188, 107);
   border-top: 1px solid gray;
 }
 
